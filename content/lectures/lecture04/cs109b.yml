@@ -1,0 +1,11 @@
+name: 109b
+channels:
+  - conda
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - anaconda
+  - seaborn
+  - pip
+  - pip:
+    - gap-stat
