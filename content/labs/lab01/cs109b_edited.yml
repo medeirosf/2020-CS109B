@@ -1,0 +1,49 @@
+name: cs109b
+
+channels:
+- conda-forge
+- anaconda-fusion
+# for json
+- jmcmurray
+- defaults
+- milesgranger
+- akode
+
+dependencies:
+- altair
+- arviz
+- bokeh
+- beautifulsoup4
+- dash
+- gap-stat
+- gensim
+- gym
+- holoviews
+- ipytest
+- IPython
+- ipywidgets
+- json
+- jupyter
+- jupyterlab
+- matplotlib
+- mkl-service
+- nltk
+- numpy
+- pandas
+- pillow
+- pip
+- plotly
+- progressbar2
+# students will install this from repo
+# - pyESN
+- pygam
+- pymc3
+- python>=3.6
+- requests
+- scipy
+- scikit-image
+- scikit-learn
+- seaborn
+- spacy
+- statsmodels
+- tensorflow>=2.0.0
