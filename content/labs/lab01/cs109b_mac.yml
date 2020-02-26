@@ -13,10 +13,9 @@ channels:
 dependencies:
 - altair
 - arviz
-- bokeh
 - beautifulsoup4
+- bokeh
 - dash
-- gap-stat
 - gensim
 - gym
 - holoviews
