@@ -6,6 +6,7 @@ channels:
 # for json
 - jmcmurray
 - milesgranger
+- powerai
 - conda-forge
 - defaults
 
