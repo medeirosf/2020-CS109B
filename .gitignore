@@ -182,3 +182,4 @@ homeworks_playground/how7/part2/x_test_mnist_cs109.csv
 homeworks_playground/how7/part2/x_train_mnist_cs109.csv
 homeworks/how7/cs109a_hw7_solutions-rashmi.ipynb
 homeworks/how7/cs109a_hw7_solutions-rashmi_keep.ipynb
+*.jsonl
